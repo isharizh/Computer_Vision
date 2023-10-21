@@ -73,3 +73,4 @@ while True:
     # cv2.putText(bimg, "Smash Hit Player !", (200, 50), cv2.FONT_HERSHEY_DUPLEX, 1, (0, 0, 255), 1)
     cv2.imshow("Rizle", bimg)
     cv2.waitKey(1)
+#Harixh
