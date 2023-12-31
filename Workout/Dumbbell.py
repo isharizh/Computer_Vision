@@ -11,9 +11,11 @@ cap = cv2.VideoCapture(0)
 #cap.set(3, 1080)
 #cap.set(4, 1020)
 
+#counting variables
 up = False
 counter = 0
 
+#Time variables
 start_time = None
 exercise_duration = 30
 
