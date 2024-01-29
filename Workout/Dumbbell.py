@@ -3,6 +3,7 @@ import time
 import pygame
 import mediapipe as mp
 
+#Change the location path of music
 mpdraw = mp.solutions.drawing_utils
 mppose = mp.solutions.pose
 pose = mppose.Pose()
