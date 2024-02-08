@@ -9,7 +9,7 @@ wcam, hcam = 640, 480
 framered = 100
 bd = 10
 smooth = 2
-# **************
+# *************
 
 ptime = 0
 plocx, plocy = 0, 0
